@@ -36,7 +36,7 @@ elm-test
 
 ## List exercises
 1. Make a function "isEmpty" that returns if a given String List is empty or not (Bool).
-2. Make a function "head" that returns the first Int in a Int list of -100 if it's an empty list.
+2. Make a function "head" that returns the first Int in a Int list, if the list is empty return -100.
 
 ### Map Exercises
 1. Create a function "canBuyAlcohol" that given an array of ages return True or False if is able to buy alcohol (+17)
