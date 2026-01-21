@@ -39,7 +39,7 @@ elm-test
 2. Make a function "head" that returns the first Int in a Int list, if the list is empty return -100.
 
 ### Map Exercises
-1. Create a function "canBuyAlcohol" that given an array of ages return True or False if is able to buy alcohol (+17)
+1. Create a function "canBuyAlcohol" that given an array of ages return True or False if is able to buy alcohol (>17)
 2. Create a function "allUpperCase" that given an array of names return the same names in uppercase (String.toUpper) 
-3. Create a function "approveCourse" that given an array of grades (Float) return if it approve or not the course.
+3. Create a function "approveCourse" that given an array of grades (Float) return if it approve or not the course (>6).
 
